@@ -1,16 +1,10 @@
 # INTROSPECTION
 ### Why must we choose you?
-I when i studied java in class 10 thought of making my carrer in coding field because i love it.I never get bored of doing it.Coding for me
-is just like what cricket is to a cricketer that is the one thing i would love to do my whole life.I think amfoss will guide me to the path 
-where i can learn more about my passion.I personally feel that seeing this passion of mine amfoss can think of choosing me for the club.I
-am a bit lazy in doing my work but this is not same when it comes to coding and tech related stuffs.
+I think it's a difficult question for me as I'm a noob. My father once told me that when a person does things of his interests, only then he becomes successful. Then i started looking for what doing makes me happy. I found that programming is the only thing that will make me happy. I get bored in games too but I never get bored doing this. I started learning C language, It was difficult to me but i never got bored of doing that. I installed kali linux also to learn ethical hacking but due to lack of proper guidance, I couldn't learn that much. Now I'm pretty sure that this club will help me to make it happen. This club is the only reason I'm in this college.
 ### What is your plan for the next 6 months?
-I seeing that flutter task was amazed i read many stuffs about that seeing that my dream to become an Android Developer became more
-predominant.I want to go ahead in this field as much as i can in the next 6 months and i am sure that if i got selected for amfoss i can
-progress at a appreciable rate.I also want to give some focus on academics because my parents want a good result from me.
+I don't know much in tech field but I want to be a problem solver. I want to learn programming languages. I just want to keep doing coding for the rest of my life. But for the next 6 months, I'll focus on solve problems and see how things happen. I also want to keep full focus on my GPA so that I can upgrade my branch from ELC to CSE in next year.
 ## How would you contribute back to the club?
-I will try to work to the extent of my limits to do what the club wants from me.I would give my best to achieve something in future which 
-amfoss could boast of.
+Well this is the question to which I can say with full confidence that whatever the club wants me to do, I will do with all my efforts. I expect that this club will use me to the fullest and take me out from my comfort zone. It'll make me best.
 ## Do you have any feedback for the selection process?
 No the selection process is the best i have ever seen.This selection process gives a great learning experience to whosoever who attempt the 
 tasks.I was amazed to see what my progress was because of these tasks in one month so i personally find the selection process very ethical.

@@ -1,5 +1,5 @@
 # amfoss-tasks-
-# Akshat Tripathi
-**I am Akshat Tripathi from Gorakhpur Uttar Pradesh,fresher at Amrita School of Engineering(EAC 2020)**
+# Prashant Gehlot
+**I am Prashant Gehlot from Jalore,Rajasthan(India) ,fresher at Amrita School of Engineering(ELC 2021)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------

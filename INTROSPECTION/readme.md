@@ -6,6 +6,4 @@ I don't know much in tech field but I want to be a problem solver. I want to lea
 ## How would you contribute back to the club?
 Well this is the question to which I can say with full confidence that whatever the club wants me to do, I will do with all my efforts. I expect that this club will use me to the fullest and take me out from my comfort zone. It'll make me best.
 ## Do you have any feedback for the selection process?
-No the selection process is the best i have ever seen.This selection process gives a great learning experience to whosoever who attempt the 
-tasks.I was amazed to see what my progress was because of these tasks in one month so i personally find the selection process very ethical.
-
+I never took part in any selection process so I'm not able to give feedback but this selection process is just wow. It is at it's peak because whoever wants to be a part of this club, this selection process prepares them to face challanges in advance.

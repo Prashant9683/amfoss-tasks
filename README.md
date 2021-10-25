@@ -16,7 +16,7 @@
 [Task-10](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-10)|CS50|N
 [Task-11](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-11)|Poster Design|Completed
 [Task-12](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-12)|Make the Block|D
-[Task-13](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-13)|C
+[Task-13](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-13)|Circuit Design|D
 [Task-14](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-14)|Bandit|Completed
 [Task-15](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-15)|Project Euler|Completed
 

@@ -13,7 +13,7 @@
 [Task-07](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-07)|Rich Scraper|C
 [Task-08](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-08)|JSExplorer|C
 [Task-09](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-09)|Setup a Simple Personal Website|C
-[Task-10](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-10)|CS50|N
+[Task-10](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-10)|CS50|Completed
 [Task-11](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-11)|Poster Design|Completed
 [Task-12](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-12)|Make the Block|D
 [Task-13](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-13)|Circuit Design|D

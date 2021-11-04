@@ -55,3 +55,8 @@ cat North.txt East.txt Location-Coordinate.txt
 
 ## 13. Converted texts into coordinate
 vim Location-Coordinate.txt
+
+# Git commands
+
+## 1. First i committed my file.
+git commit -m 

@@ -11,7 +11,7 @@
 [Task-05](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-05)|Let me C|N
 [Task-06](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-06)|Flutter based UI task|Completed
 [Task-07](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-07)|Rich Scraper|C
-[Task-08](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-08)|JSExplorer|C
+[Task-08](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-08)|JSExplorer|Completed
 [Task-09](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-09)|Setup a Simple Personal Website|C
 [Task-10](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-10)|CS50|Completed
 [Task-11](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-11)|Poster Design|Completed

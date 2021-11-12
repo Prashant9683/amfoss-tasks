@@ -7,16 +7,16 @@
 [Task-01](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-01)|Star all the amFOSS repositories|Completed
 [Task-02](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-02)|Begin your journey with Linux and Git|Completed
 [Task-03](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-03)|Programming|D
-[Task-04](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-04)|Aerglo Mars|C
-[Task-05](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-05)|Let me C|N
+[Task-04](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-04)|Aerglo Mars|Attempted but failed
+[Task-05](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-05)|Let me C|Almost done
 [Task-06](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-06)|Flutter based UI task|Completed
 [Task-07](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-07)|Rich Scraper|C
 [Task-08](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-08)|JSExplorer|Completed
-[Task-09](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-09)|Setup a Simple Personal Website|C
+[Task-09](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-09)|Setup a Simple Personal Website|Completed
 [Task-10](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-10)|CS50|Completed
 [Task-11](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-11)|Poster Design|Completed
-[Task-12](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-12)|Make the Block|D
-[Task-13](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-13)|Circuit Design|D
+[Task-12](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-12)|Make the Block|Didn't attempt
+[Task-13](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-13)|Circuit Design|Didn't attempt
 [Task-14](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-14)|Bandit|Completed
 [Task-15](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-15)|Project Euler|Completed
 

@@ -1,4 +1,3 @@
-import math
 def largestFactor(n):
     prime_factor = 1
     i = 2

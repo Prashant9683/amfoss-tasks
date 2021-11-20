@@ -6,7 +6,7 @@
 [Task-00](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-00)|Install Ubuntu 20.04 [Desktop]|Completed
 [Task-01](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-01)|Star all the amFOSS repositories|Completed
 [Task-02](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-02)|Begin your journey with Linux and Git|Completed
-[Task-03](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-03)|Programming|D
+[Task-03](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-03)|Programming|Attempted(3 out of 10)
 [Task-04](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-04)|Aerglo Mars|Attempted but failed
 [Task-05](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-05)|Let me C|Almost done
 [Task-06](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-06)|Flutter based UI task|Completed

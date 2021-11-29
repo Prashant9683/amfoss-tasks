@@ -1,6 +1,6 @@
 # amfoss-tasks-
 # Prashant Gehlot
-**I am Prashant Gehlot from Jalore,Rajasthan(India) ,fresher at Amrita School of Engineering(ELC 2021)**
+**I am Prashant Gehlot from Jalore,Rajasthan(India) ,fresher at Amrita School of Engineering**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-00)|Install Ubuntu 20.04 [Desktop]|Completed

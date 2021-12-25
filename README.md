@@ -18,7 +18,7 @@
 [Task-12](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-12)|Make the Block|Didn't attempt
 [Task-13](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-13)|Circuit Design|Didn't attempt
 [Task-14](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-14)|Bandit|Completed
-[Task-15](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-15)|Project Euler|
+[Task-15](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-15)|Project Euler|1 out of 5
 
 ## My views about the tasks
 I had faced many challenges as i was new to programming.All these tasks are really complicated for a beginner i think. Well every task had resources with it for some help but still i was unable to do those tasks without the help of Google and Youtube. But these tasks were just amaze for me. I highely appreciate to this selection process. It's all about take challenges. And I'm glad to see myself outside my comfort zone. I have never done any work except study with so much heart.

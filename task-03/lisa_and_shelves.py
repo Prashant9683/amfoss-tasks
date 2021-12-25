@@ -1,9 +1,30 @@
-n = int(input())
-count = 0
+from math import sqrt
 
-for i in range(1, n+1):
-    if n % i ==0:
-        count+=1
+mod = 1000000007
+def mult(a, b):
+    return ((a % mod) * (b % mod)) % mod
+def calculate_factors(n):
+    cnt = 0
+    ans = 1
 
-if count>=1:
-    print(count)
+    while (n % 2 == 0):
+        cnt += 1
+        n = n // 2
+
+    if (cnt):
+        ans = mult(ans, (cnt + 1))
+    for i in range(3, int(sqrt(n)), 2):
+        cnt = 0
+        while (n % i == 0):
+            cnt += 1
+            n = n // i
+        if (cnt):
+            ans = mult(ans, (cnt + 1))
+    if (n > 2):
+        ans = mult(ans, 2)
+    return ans % mod
+
+if __name__ == '__main__':
+    n = int(input())
+
+    print(calculate_factors(n))

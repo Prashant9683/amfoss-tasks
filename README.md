@@ -6,7 +6,7 @@
 [Task-00](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-00)|Install Ubuntu 20.04 [Desktop]|Completed
 [Task-01](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-01)|Star all the amFOSS repositories|Completed
 [Task-02](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-02)|Begin your journey with Linux and Git|Completed
-[Task-03](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-03)|Programming|Completed(4 out of 10)
+[Task-03](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-03)|Programming|
 [Task-04](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-04)|Aerglo Mars|Attempted but failed
 [Task-05](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-05)|Let me C|Almost done
 [Task-06](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-06)|Flutter based UI task|Completed
@@ -18,7 +18,7 @@
 [Task-12](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-12)|Make the Block|Didn't attempt
 [Task-13](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-13)|Circuit Design|Didn't attempt
 [Task-14](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-14)|Bandit|Completed
-[Task-15](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-15)|Project Euler|Completed 3 out of 5
+[Task-15](https://github.com/Prashant9683/amfoss-tasks/tree/main/task-15)|Project Euler|
 
 ## My views about the tasks
 I had faced many challenges as i was new to programming.All these tasks are really complicated for a beginner i think. Well every task had resources with it for some help but still i was unable to do those tasks without the help of Google and Youtube. But these tasks were just amaze for me. I highely appreciate to this selection process. It's all about take challenges. And I'm glad to see myself outside my comfort zone. I have never done any work except study with so much heart.
